@@ -24,8 +24,11 @@ The analysis includes :
   ![datasource file format](Resources/Ride_data_format.png)
 
 ## Analysis Results
-Below is a differetn totals , fare per driver, and fare per ride by city type.
-#### PyBer Ride share summary by ciry type
+ 
+#### 1. PyBer Ride share summary by ciry type:
 ![pyber_summary_by_city_type](Analysis/PyBer_summary_by_city_type.png)
+
+#### 2. PyBer total fare by week by city type:
+![PyBer_weekly_summary](Analysis/PyBer_fare_summary.png)
 
 ## Summary
