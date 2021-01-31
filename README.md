@@ -7,7 +7,7 @@ PyBer is a company which owns a Python based app for ride sharing. The objective
 
 The analysis includes :
 - Analysis of how weekly fare varies by city type during the first four months of 2019.
-- Analysze different metrics e.g Volume (Rides,drivers, fare,and averge fare by driver and ride)
+- Analysze different metrics by city type e.g Volume (Rides,drivers, fare,and averge fare by driver and ride)
 
 ## Resources
 - Data source: 
@@ -23,7 +23,9 @@ The analysis includes :
 #### Ride Data format:
   ![datasource file format](Resources/Ride_data_format.png)
 
-
 ## Analysis Results
-- 
+Below is a differetn totals , fare per driver, and fare per ride by city type.
+#### PyBer Ride share summary by ciry type
+![pyber_summary_by_city_type](Analysis/PyBer_summary_by_city_type.png)
+
 ## Summary
