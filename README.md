@@ -28,7 +28,7 @@ The analysis includes :
  
 #### 1. PyBer Ride share summary by ciry type:
 ![pyber_summary_by_city_type](Analysis/PyBer_summary_by_city_type.png)
-- WHile Urban communities has the higest percentage of ride counts and brings the highest percent of revenue , they have the lowest fare per ride and per driver. 
+- While Urban communities have the higest percentage of ride counts and brings the highest percent of revenue , they have the lowest fare per ride and per driver. 
 - Rural communities have the lowest contribbution for ride counts and driver counts, but they average fare per driver and per ride was the highest among all city types.
 
 #### 2. PyBer total fare by week by city type:
