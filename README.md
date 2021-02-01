@@ -34,7 +34,7 @@ The analysis includes :
 #### 2. PyBer total fare by week by city type:
 ![PyBer_weekly_summary](Analysis/PyBer_fare_summary.png)
 
-- Urban and Suburban weekly total revenue (fare) follows the same trend. Though Urban communities have almost double the urban total fare. 
+- Urban and Suburban weekly total revenue (fare) follows the same trend. Though Urban communities have almost double the Suburban total fare. 
 - Rural communities contribute to approximately 7% revenue.
 
 l
