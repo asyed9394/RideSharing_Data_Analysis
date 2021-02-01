@@ -34,10 +34,10 @@ The analysis includes :
 #### 2. PyBer total fare by week by city type:
 ![PyBer_weekly_summary](Analysis/PyBer_fare_summary.png)
 
-- Urban and Suburban weekly total fare folows the same trend. Though Urban communities have almost double the urban total fare. 
+- Urban and Suburban weekly total revenue (fare) follows the same trend. Though Urban communities have almost double the urban total fare. 
 - Rural communities contribute to approximately 7% revenue.
 
-
+l
 ## Summary
 
 - Based on the analysis , Rural and Urban communiites are under served . However this may not be true if the actual demand is also in low in these communities. So before deciding to increase the serivce in these under served community, PyBer should evaluae the demand and market share . And increase number of drverrs in these communities.
