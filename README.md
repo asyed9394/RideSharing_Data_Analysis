@@ -6,7 +6,7 @@ PyBer is a company which owns a Python based app for ride sharing. The objective
 - Determine affordability for under-served neighboorhoods
 
 The analysis includes :
-- Analysis of how weekly fare varies by city type during the first four months of 2019.
+- Analysis of how total weekly revenue (fare) varies by city type during the first four months of 2019.
 - Analysze different metrics by city type e.g Volume (Rides,drivers, fare,and averge fare by driver and ride)
 
 ## Resources
