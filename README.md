@@ -1,4 +1,4 @@
-# PyBer Ride-Sharing Data Analysis
+# Ride-Sharing Data Analysis
 
 ## Project Overview
 PyBer is a company which owns a app (built mianly using Python) for ride sharing. The objective of the analysis is to analyse ride sharing app data from 2019 to acheive two business goals.
