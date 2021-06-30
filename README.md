@@ -41,7 +41,7 @@ The analysis includes :
 ## Summary
 
 - Based on the analysis , Rural and Urban communiites are under served . However this may not be true if the actual demand is also low in these communities. So before deciding to increase the serivces in these under served community, PyBer should evaluae the demand and market share and increase number of drivers in these communities if market is underserved.
-- The number of drivers in Urban communities are quite high and percent of rides per driver is 68%. So in order to imporve the rides per driver ratio, company should invest on analyzing data further to understand what causesthis behavior. e.g is this due to the fact the demand is low and the company has more drivers or is it becuase its loosing the market share due to drivers are not in the right area.
+- The number of drivers in Urban communities are quite high (alomst 5 times more driver than other types of cities) but only 68% drivers had a ridee. So in order to increase the no of drivers with a ride, company should invest on analyzing data further to understand what causes not all drivers are being used in Urban communites. e.g is this due to the fact the demand is low and the company has more drivers or is it becuase its loosing the market share due to drivers are not in the right area.
 - In order to improve the affordability for rural and urban communities, company should evalaute the option of either increasing the ride rate in urban communities and reduce it for Rural and suburban based on better mileage. 
 
 All of the above recomendation require some market reasearch and furhter data analysis to confirm the assumptions in making these recomendations.
